@@ -1,0 +1,14 @@
+/* line 1, C:/repositories/BEMTreeCSS/src/assets/stylesheets/components/_flexbox.scss */
+.flex {
+  display: -ms-flexbox;
+  display: flex; }
+  /* line 3, C:/repositories/BEMTreeCSS/src/assets/stylesheets/components/_flexbox.scss */
+  .flex.flex--column {
+    -ms-flex-direction: column;
+    flex-direction: column; }
+
+/* line 3, C:/repositories/BEMTreeCSS/src/partials/navigation/_navigation.scss */
+.navigation__list {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
